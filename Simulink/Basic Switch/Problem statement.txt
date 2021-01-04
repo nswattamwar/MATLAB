@@ -1,0 +1,8 @@
+Problem Statement:Final output should not be negative.
+
+If a==5 output=2
+if a!=5 then
+
+if subsystem is enabled and falling trigger
+and a==7 output is 3 
+else output is -5.
